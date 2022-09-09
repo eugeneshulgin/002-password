@@ -6,6 +6,11 @@
 	text-decoration: none;
 }
 
+body {
+	min-height: 100vh;
+	background-color: rgb(103, 160, 131);
+}
+
 .calc-wrapper {
 	background-color: rgb(67, 71, 112);
 	padding: 10px;
