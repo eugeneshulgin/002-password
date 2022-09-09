@@ -9,12 +9,11 @@
 body {
 	min-height: 100vh;
 	background-color: rgb(103, 160, 131);
-}
-
-.calc-wrapper {
-	background-color: rgb(67, 71, 112);
+	color: rgb(52, 49, 49);
 	padding: 10px;
 	height: 100vh;
 	display: flex;
 	align-items: center;
 }
+
+.calc-wrapper {}
